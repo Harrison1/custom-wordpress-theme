@@ -1,0 +1,17 @@
+/*
+Theme Name: Harry Bootstrap
+Author: Harrison McGuire
+Description: Bootstrap Blog template converted to WordPress
+Version: 1.0
+Tags: bootstrap
+*/
+
+.blog-nav li {
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    font-weight: 500; 
+}
+.blog-nav li a {
+    color: #fff;
+}
