@@ -1,3 +1,3 @@
 # custom-wordpress-theme
 
-a custom wordpress theme
+a basic custom wordpress theme
